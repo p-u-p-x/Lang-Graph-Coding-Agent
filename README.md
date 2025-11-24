@@ -10,18 +10,19 @@ LangGraph Project Generator is a cutting-edge AI system that transforms natural 
 
 ---
 
-# 📋 Table of Contents
+## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Architecture & Agent Flow](#architecture--agent-flow)
-- [Key Features & Capabilities](#key-features--capabilities)
-- [Technical Implementation](#technical-implementation)
-- [Performance & Accuracy](#performance--accuracy)
-- [Deployment & Setup](#deployment--setup)
-- [Use Cases & Applications](#use-cases--applications)
-- [Development & Contribution](#development--contribution)
-- [References & Methodology](#references--methodology)
-- [Contact](#contact)
+- 🔍 [Project Overview](#-project-overview)  
+- 🏗️ [Architecture & Agent Flow](#-architecture--agent-flow)  
+- ⚡ [Key Features & Capabilities](#-key-features--capabilities)  
+- 🛠️ [Technical Implementation](#-technical-implementation)  
+- 📊 [Performance & Accuracy](#-performance--accuracy)  
+- 🚀 [Deployment & Setup](#-deployment--setup)  
+- 💼 [Use Cases & Applications](#-use-cases--applications)  
+- 🏗️ [Development & Contribution](#-development--contribution)  
+- 🔬 [References & Methodology](#-references--methodology)  
+- 📬 [Contact](#-contact)  
+
 
 ---
 
