@@ -1,4 +1,4 @@
-# 🚀 LangGraph Project Generator - AI-Powered Code Generation Platform
+# 🤖 LangGraph Project Generator - AI-Powered Code Generation Platform
 
 ![LangGraph AI](https://img.shields.io/badge/LangGraph--AI-1A237E) ![Python](https://img.shields.io/badge/Python-3.8%252B-00695C) ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%252B-0288D1) ![AI Agents](https://img.shields.io/badge/AI--Agents-455A64) ![Code Generation](https://img.shields.io/badge/Code--Generation-3F51B5)
 
